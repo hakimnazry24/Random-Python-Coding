@@ -1,6 +1,6 @@
 '''
 Author : Hakim Nazri
-Version written : 29 September 2022
+Version written : 29 August 2022
 
 Description:
 - program that imitate dice rolling
